@@ -29,4 +29,8 @@
     <a href="https://www.linkedin.com/in/brumdaniel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+ ##
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbrumdasilva-design&bg_color=000000&color=7308EF&line=7308EF&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
