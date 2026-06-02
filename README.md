@@ -30,7 +30,28 @@
 </div>
 
  ##
+<!-- ---------------------------------------------------------------------------------- 
+ # Argumentos do gráfico 
+bg_color     : Cor de fundo (hexadecimal sem #)
+border_color : Cor da borda (hexadecimal sem #)
+color        : Cor do texto (hexadecimal sem #)
+title_color  : Cor do título (hexadecimal sem #)
+line         : Cor da linha do gráfico (hexadecimal sem #)
+point        : Cor dos pontos do gráfico (hexadecimal sem #)
+area_color   : Cor da área sob o gráfico (hexadecimal sem #)
+area         : Exibe a área sob o gráfico (bool, padrão: false)
+hide_border  : Oculta a borda (bool, padrão: false)
+hide_title   : Oculta o título (bool, padrão: false)
+custom_title : Título personalizado (string)
+theme        : Nome do tema (string)
+radius       : Raio da borda (0-16)
+height       : Altura do gráfico (200-600)
+days         : Período em dias (1-90, recomendado < 40)
+from         : Data inicial (YYYY-MM-DD)
+to           : Data final (YYYY-MM-DD)
+grid         : Exibe a grade do gráfico (bool, padrão: true) -->
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbrumdasilva-design&bg_color=000000&color=7308EF&line=7308EF&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbrumdasilva-design&bg_color=none&color=7308EF&line=7308EF&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- --------------------------------------------------------------------------------->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
