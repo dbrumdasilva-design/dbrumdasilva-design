@@ -14,8 +14,8 @@
   <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dani-Rockwell" height="30" width="50" src="https://github.com/user-attachments/assets/5354b823-a9f8-4d4d-87d6-34bec28bec39">
-  <img align="center" alt="Dani-Siemens" height="30" width="60" src="https://github.com/user-attachments/assets/a34dbcd6-9992-41f8-89cc-b5ccd104008a">
+  <img align="center" alt="Dani-Rockwell" height="30" width="50" src="https://github.com/user-attachments/assets/e2bb2006-826b-4a6d-bb1c-4fa52beaa5e7">
+  <img align="center" alt="Dani-Siemens" height="30" width="60" src="https://github.com/user-attachments/assets/0dcd654b-3bf9-451a-9925-80e81b9e950f">
 </div>
 
  ##
