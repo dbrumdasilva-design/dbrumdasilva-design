@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, enthusiast👋! Welcome to my GitHub 🚀
 
-<!--
-**dbrumdasilva-design/dbrumdasilva-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Mid-Level Software Developer**
 
-Here are some ideas to get you started:
+**Continuously expanding my expertise in system development and modern technologies, building efficient solutions that bridge industrial automation and software engineering. Made in Brazil 🇧🇷!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Always learning, creating, and improving.**
+
+ ##
+
+**🔨 Technologies**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Dani-Rockwell" height="30" width="50" src="https://github.com/user-attachments/assets/5354b823-a9f8-4d4d-87d6-34bec28bec39">
+  <img align="center" alt="Dani-Siemens" height="30" width="60" src="https://github.com/user-attachments/assets/a34dbcd6-9992-41f8-89cc-b5ccd104008a">
+</div>
+
+ ##
+
+**🌐 Where to find me**
+<div> 
+    <a href="https://instagram.com/danieldbrum" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:dbrumdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/brumdaniel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
