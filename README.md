@@ -52,6 +52,14 @@ to           : Data final (YYYY-MM-DD)
 grid         : Exibe a grade do gráfico (bool, padrão: true) -->
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbrumdasilva-design&bg_color=none&color=7308EF&line=7308EF&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 <!-- --------------------------------------------------------------------------------->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
+<div align=center>
+ <img src="https://raw.githubusercontent.com/dbrumdasilva-design/dbrumdasilva-design/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
+</div>
+
