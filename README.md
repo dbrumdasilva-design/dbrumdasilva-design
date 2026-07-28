@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/> -->
 
 ## Hi, enthusiast👋! Welcome to my GitHub 🚀
 
@@ -59,6 +59,7 @@ grid         : Exibe a grade do gráfico (bool, padrão: true) -->
  <img src="https://raw.githubusercontent.com/dbrumdasilva-design/dbrumdasilva-design/output/snake.svg" alt="Snake animation" />
 </div>
 
+<!--
 <div>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
 </div>
