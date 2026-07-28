@@ -62,7 +62,7 @@ grid         : Exibe a grade do gráfico (bool, padrão: true) -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="GitHub Stats" src="https://github.com/user-attachments/assets/0961dc85-bd0f-4ff4-826c-b438700bf2b1" width="300" height="200" />
+  <img alt="GitHub Stats" src="https://github.com/user-attachments/assets/0961dc85-bd0f-4ff4-826c-b438700bf2b1" width="250" height="200" />
 </p>
 <!--
 <div>
