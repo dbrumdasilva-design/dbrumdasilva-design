@@ -52,13 +52,13 @@ to           : Data final (YYYY-MM-DD)
 grid         : Exibe a grade do gráfico (bool, padrão: true) -->
 
  
-<!-- --------------------------------------------------------------------------------->
+<!-- ---------------------------
 
 <div align=center>
  <img src="https://raw.githubusercontent.com/dbrumdasilva-design/dbrumdasilva-design/output/snake.svg" alt="Snake animation" />
 </div>
 
-
+------------------------------------------------------>
 <div>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
 </div>
